@@ -34,3 +34,15 @@ This repository contains the code and resources for setting up an end-to-end dat
 #### Prerequisites
 - Azure subscription
 - GitHub account
+
+#### Avg entries by gender per discipline
+![avg entries per gender](https://github.com/Raghukarn/Azure-Data-Factory-engineering-project-tokyo-olympic/assets/119719960/dc4b95c6-b47f-453a-9e4e-f1d09658904e)
+
+#### #Athletes participated per country
+![athletes per country](https://github.com/Raghukarn/Azure-Data-Factory-engineering-project-tokyo-olympic/assets/119719960/57c5ddfc-040c-41cc-814b-7d98de64cf82)
+
+#### TOp 10 countries by medal count
+![Top 10 Countries by medals](https://github.com/Raghukarn/Azure-Data-Factory-engineering-project-tokyo-olympic/assets/119719960/5a5d3704-c916-4fad-91d3-bf7146c000dc)
+
+
+
