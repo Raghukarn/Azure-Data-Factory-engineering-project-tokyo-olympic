@@ -2,6 +2,9 @@
 
 This repository contains the code and resources for setting up an end-to-end data pipeline using Azure Data Factory, Azure Databricks, and Synapse Analytics. The project demonstrates data ingestion, transformation, and analysis using cloud technologies.
 
+![Architecture project image](https://github.com/Raghukarn/Azure-Data-Factory-engineering-project-tokyo-olympic/assets/119719960/d6fa101e-18db-4965-8529-07413703c38d)
+
+
 ### This project involves the following key steps:
 
 #### Storage Setup:
